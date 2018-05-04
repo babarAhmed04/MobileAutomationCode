@@ -4,9 +4,9 @@ import com.appium.base.ScreenBase;
 
 import io.appium.java_client.android.AndroidDriver;
 
-public class WebView extends ScreenBase {
+public class WebViewScreen extends ScreenBase {
 
-	public WebView(AndroidDriver driver) {
+	public WebViewScreen(AndroidDriver driver) {
 		super(driver);
 		
 	}
